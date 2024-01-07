@@ -1,2 +1,2 @@
-# Farmer-s-Helper
-HTML, CSS, JavaScript, Geolocation API, supports 100+ languages 
+# TRINIT_594092-U1E6N1S9_DEV
+TRINIT Lets go
